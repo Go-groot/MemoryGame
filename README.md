@@ -1,1 +1,1 @@
-# MemotyGame
+# MemoryGame
